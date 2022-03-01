@@ -1,6 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-![Ames, Iowa](images/ames about us thinkames.com.jpeg)
+![Ames, Iowa](https://github.com/powersjv/Ames_Housing_FliporFlop/blob/cd6fb1d7d81f24a48d67d6dfc53eb689d11a70c4/images/ames%20about%20us%20thinkames.com.jpeg)
 
 
 ### Problem Statement
